@@ -1,4 +1,4 @@
-# COMING SOON - August 10, 2025
+### COMING SOON - August 10, 2025
 
 # 🔧 UART GUI Debug Console Pro – Raspberry Pi 5 Edition
 
