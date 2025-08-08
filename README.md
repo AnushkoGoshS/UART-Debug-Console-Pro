@@ -1,4 +1,5 @@
-### COMING SOON - August 10, 2025
+|✅ [UART Debug Console - Out Now](https://www.bylickilabs.com/e-commerce/uart-debug-console)|
+|---|
 
 ### 🔧 UART GUI Debug Console Pro – Raspberry Pi 5 Edition
 
