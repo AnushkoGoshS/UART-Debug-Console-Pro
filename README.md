@@ -3,7 +3,6 @@
 
 ### 🔧 UART GUI Debug Console Pro – Raspberry Pi 5 Edition
 
-### 📅 Coming August 10, 2025  
 **Multilingual (EN / DE)**  
 **Designed & Developed by Thorsten Bylicki | BYLICKILABS**
 
